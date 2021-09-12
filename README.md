@@ -20,7 +20,7 @@ npm start
 
 "json-server": " json-server --watch Task.json"
 
-3. Run commond to run Json Server
+3. Run command to run Json Server
 
 npm run json-server
 
